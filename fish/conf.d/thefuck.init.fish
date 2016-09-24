@@ -1,0 +1,1 @@
+/home/kp/.dotfiles/config/fish/conf.d/thefuck.init.fish

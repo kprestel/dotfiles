@@ -1,0 +1,1 @@
+/home/kp/.dotfiles/config/fish/functions/bass.fish

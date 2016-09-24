@@ -1,0 +1,1 @@
+/home/kp/.dotfiles/config/fish/conf.d/__fzf_check.fish

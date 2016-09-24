@@ -1,0 +1,1 @@
+/home/kp/.dotfiles/config/fish/functions/__z_complete.fish

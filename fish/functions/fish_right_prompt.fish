@@ -1,0 +1,1 @@
+/home/kp/.dotfiles/config/fish/functions/fish_right_prompt.fish
